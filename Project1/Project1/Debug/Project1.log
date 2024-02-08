@@ -1,0 +1,17 @@
+﻿  administrator.cpp
+  buyer.cpp
+  calculator.cpp
+D:\NJU\1.2\高程\project1\Project1\Project1\calculator.cpp(36,23): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  main.cpp
+D:\NJU\1.2\高程\project1\Project1\Project1\calculator.cpp(36,23): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+D:\NJU\1.2\高程\project1\Project1\Project1\main.cpp(365,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+D:\NJU\1.2\高程\project1\Project1\Project1\main.cpp(505,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  sellers.cpp
+D:\NJU\1.2\高程\project1\Project1\Project1\sellers.cpp(413,13): warning C4566: ユニバーサル文字名 '\uFFFD' によって表示されている文字は、現在のコード ページ (932) で表示できません
+D:\NJU\1.2\高程\project1\Project1\Project1\sellers.cpp(284,7): warning C4101: 'g_time': ローカル変数は 1 度も使われていません。
+D:\NJU\1.2\高程\project1\Project1\Project1\sellers.cpp(281,6): warning C4101: 'g_num': ローカル変数は 1 度も使われていません。
+D:\NJU\1.2\高程\project1\Project1\Project1\sellers.cpp(278,7): warning C4101: 'g_name': ローカル変数は 1 度も使われていません。
+  sql.cpp
+  users.cpp
+  コードを生成中...
+  Project1.vcxproj -> D:\NJU\1.2\高程\project1\Project1\Debug\Project1.exe
